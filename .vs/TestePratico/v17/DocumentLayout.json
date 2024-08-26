@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\testepratico\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|solutionrelative:testepratico\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\testepratico\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|solutionrelative:testepratico\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\testepratico\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|solutionrelative:testepratico\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|c:\\users\\matheus ant\u00E3o\\source\\repos\\testepratico\\testepratico\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|solutionrelative:testepratico\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|c:\\users\\matheus ant\u00E3o\\source\\repos\\testepratico\\testepratico\\listar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|solutionrelative:testepratico\\listar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|c:\\users\\matheus ant\u00E3o\\source\\repos\\testepratico\\testepratico\\listar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|solutionrelative:testepratico\\listar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|c:\\users\\matheus ant\u00E3o\\source\\repos\\testepratico\\testepratico\\listar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|solutionrelative:testepratico\\listar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\testepratico\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|solutionrelative:testepratico\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|c:\\users\\matheus ant\u00E3o\\source\\repos\\testepratico\\testepratico\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|solutionrelative:testepratico\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|c:\\users\\matheus ant\u00E3o\\source\\repos\\testepratico\\testepratico\\cadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50B7755-A470-41C2-949D-C858E896BE0F}|TestePratico\\TestePratico.csproj|solutionrelative:testepratico\\cadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TestePratico||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 319,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Aluno.cs",
+              "RelativeDocumentMoniker": "TestePratico\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Aluno.cs",
+              "RelativeToolTip": "TestePratico\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:59:48.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Listar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Listar.Designer.cs",
+              "RelativeDocumentMoniker": "TestePratico\\Listar.Designer.cs",
+              "ToolTip": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Listar.Designer.cs",
+              "RelativeToolTip": "TestePratico\\Listar.Designer.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAiwHYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:25:14.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Listar.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Listar.cs",
+              "RelativeDocumentMoniker": "TestePratico\\Listar.cs",
+              "ToolTip": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Listar.cs",
+              "RelativeToolTip": "TestePratico\\Listar.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAUwKMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:18:32.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Listar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Listar.cs",
+              "RelativeDocumentMoniker": "TestePratico\\Listar.cs",
+              "ToolTip": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Listar.cs [Design]",
+              "RelativeToolTip": "TestePratico\\Listar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:14:41.249Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cadastro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Cadastro.Designer.cs",
+              "RelativeDocumentMoniker": "TestePratico\\Cadastro.Designer.cs",
+              "ToolTip": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Cadastro.Designer.cs",
+              "RelativeToolTip": "TestePratico\\Cadastro.Designer.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAiwBMBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:39:33.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Cadastro.cs",
+              "RelativeDocumentMoniker": "TestePratico\\Cadastro.cs",
+              "ToolTip": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Cadastro.cs",
+              "RelativeToolTip": "TestePratico\\Cadastro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:39:54.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cadastro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Cadastro.cs",
+              "RelativeDocumentMoniker": "TestePratico\\Cadastro.cs",
+              "ToolTip": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Cadastro.cs [Design]",
+              "RelativeToolTip": "TestePratico\\Cadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:33:08.885Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "TestePratico\\Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Menu.Designer.cs",
+              "RelativeToolTip": "TestePratico\\Menu.Designer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAiwF4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:31:30.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestePratico",
+              "DocumentMoniker": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\TestePratico.csproj",
+              "RelativeDocumentMoniker": "TestePratico\\TestePratico.csproj",
+              "ToolTip": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\TestePratico.csproj",
+              "RelativeToolTip": "TestePratico\\TestePratico.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-25T17:25:08.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Menu.cs",
+              "RelativeDocumentMoniker": "TestePratico\\Menu.cs",
+              "ToolTip": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Menu.cs",
+              "RelativeToolTip": "TestePratico\\Menu.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvywAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:24:30.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Menu.cs",
+              "RelativeDocumentMoniker": "TestePratico\\Menu.cs",
+              "ToolTip": "C:\\Users\\Matheus Ant\u00E3o\\source\\repos\\TestePratico\\TestePratico\\Menu.cs [Design]",
+              "RelativeToolTip": "TestePratico\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:22:35.809Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 81,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

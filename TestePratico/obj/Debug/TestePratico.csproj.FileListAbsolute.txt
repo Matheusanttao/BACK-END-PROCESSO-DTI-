@@ -1,0 +1,12 @@
+C:\Users\Matheus Antão\source\repos\TestePratico\TestePratico\bin\Debug\TestePratico.exe.config
+C:\Users\Matheus Antão\source\repos\TestePratico\TestePratico\bin\Debug\TestePratico.exe
+C:\Users\Matheus Antão\source\repos\TestePratico\TestePratico\bin\Debug\TestePratico.pdb
+C:\Users\Matheus Antão\source\repos\TestePratico\TestePratico\obj\Debug\TestePratico.csproj.AssemblyReference.cache
+C:\Users\Matheus Antão\source\repos\TestePratico\TestePratico\obj\Debug\TestePratico.Properties.Resources.resources
+C:\Users\Matheus Antão\source\repos\TestePratico\TestePratico\obj\Debug\TestePratico.csproj.GenerateResource.cache
+C:\Users\Matheus Antão\source\repos\TestePratico\TestePratico\obj\Debug\TestePratico.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Antão\source\repos\TestePratico\TestePratico\obj\Debug\TestePratico.exe
+C:\Users\Matheus Antão\source\repos\TestePratico\TestePratico\obj\Debug\TestePratico.pdb
+C:\Users\Matheus Antão\source\repos\TestePratico\TestePratico\obj\Debug\TestePratico.MENU.resources
+C:\Users\Matheus Antão\source\repos\TestePratico\TestePratico\obj\Debug\TestePratico.Listar.resources
+C:\Users\Matheus Antão\source\repos\TestePratico\TestePratico\obj\Debug\TestePratico.Cadastro.resources
