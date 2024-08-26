@@ -1,5 +1,7 @@
-Sistema de Gestão de Alunos
+Sistema de Gestão de Alunos (PROCESSO DTI)
+
 Descrição
+
 Este sistema foi desenvolvido em C# utilizando o Windows Forms para gerenciar as notas e a frequência dos alunos de uma turma. O sistema permite o cadastro de alunos, visualização de médias e frequências, e armazena os dados em um arquivo XML.
 
 Pré-requisitos
